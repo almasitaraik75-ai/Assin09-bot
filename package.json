@@ -1,1 +1,12 @@
-
+{
+  "name": "assin09-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot بدون تبعية",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.1"
+  }
+}
